@@ -22,7 +22,6 @@
 }
 
 .container__imagem{
-    width: 10%;
  padding: 1em;
 }
 
@@ -34,7 +33,7 @@
     width: 60vw;
  }
 
-.container__menu:checked~.cabecalho-lista{
+.container__botao:checked~.cabecalho-lista{
     display: block;
 }
 
@@ -42,8 +41,23 @@
     display: none;
 }
 
+.cabecalho-lista-titulo{
+    color: var(--marrom);
+}
 
+.cabecalho-lista-item{
+    color:(--roxo);
+    padding: 1em;
+}
 
+menu_lista-item{
+    color: var(--azul);
+}
+
+@media and (min-width:1024px) {
+    .container-titulo
+    
+}
 
 
 
