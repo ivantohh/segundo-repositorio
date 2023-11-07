@@ -46,7 +46,7 @@
 }
 
 .descricao__titulo {
-    color: var(--amarelo);
+    color: var(--branca);
     font-weight: 700;
 }
 
@@ -71,7 +71,7 @@
 }
 
 .botoes__ancora {
-    background-color: var(--amarelo);
+    background-color: var(--branco);
     padding: 1em 2.2em;
     color: var(--cor-principal);
     font-weight: 700;
