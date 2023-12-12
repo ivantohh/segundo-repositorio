@@ -7,9 +7,9 @@
 
 :root{
     
-    --cor-principal:#262597;
-    --cor-secundaria: #A3108B;
-    --cor-3: #E53470;
+    --cor-principal:#974f25;
+    --cor-secundaria: #a35710fb;
+    --cor-3: #ebbf8c;
     --cor-4: #FF7656;
     --cor-5: #FFB84D;
     --cor-6: #F9F871;
@@ -18,7 +18,7 @@
     --preto: #000000;
     --roxo: #9949B4;
     --amarelo: #F1F10E;
-    --azul: #3d89ec;
+    --azul: #ec8625;
     --azul-degrade: linear-gradient(#262597,#16CFF8);;
     --fonte-principal: "Roboto";
     --fonte-secundaria: "Prompt";
